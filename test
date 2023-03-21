@@ -1,0 +1,50 @@
+{
+  "name": "TEST1",
+  "symbol": "test",
+  "description": "test",
+  "seller_fee_basis_points": 25,
+  "image": "1.png",
+  "external_url": "sss",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glasses "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Borred "
+    },
+    {
+      "trait_type": "Cap",
+      "value": "Ship "
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Black Sweatshirt "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1554.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AcUQiceFBBJtyVasd157SrDkJp2qje8ihypzi41Nma1U",
+        "share": 100
+      }
+    ]
+  }
+}
