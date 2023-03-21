@@ -2,7 +2,7 @@
   "name": "GRRECK #242",
   "symbol": "USSC",
   "description": "Update Secret Solana Community",
-  "seller_fee_basis_points": 0,
+  "seller_fee_basis_points": 10,
   "image": "https://nftstorage.link/ipfs/bafybeib3w2h2xayt2d57iyppjdf72ik24wyt3nawhzg2dueeaek6lash2a/241.png",
   "external_url": "Update GRRECK",
   "edition": 241,
